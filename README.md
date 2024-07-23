@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi there!!!👋</h1>
 
+<hr/>
 ## About Me
     🧑‍💻 Aspiring code wizard, currently in training.
     🚀 Still figuring out what all these buttons do.
