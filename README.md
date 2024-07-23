@@ -1,3 +1,15 @@
+![MasterHead](https://wallpaperaccess.com/full/314771.jpg)
+
+<h1 align="center">Hi there!!!👋</h1>
+
+## About Me
+    🧑‍💻 Aspiring code wizard, currently in training.
+    🚀 Still figuring out what all these buttons do.
+    🔍 Making sense of code, one error at a time.
+    🛠 From "Hello World" to "Oh no, what did I do?"
+    ⚙ Every day is a new lesson in the code jungle.
+    📚 Learning today, innovating tomorrow.
+    
 <!-- Statistics Start -->
 <hr/>
 
@@ -66,11 +78,3 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/> 
     </a>
 </p>
-
-## About Me
-    🧑‍💻 Aspiring code wizard, currently in training.
-    🚀 Still figuring out what all these buttons do.
-    🔍 Making sense of code, one error at a time.
-    🛠 From "Hello World" to "Oh no, what did I do?"
-    ⚙ Every day is a new lesson in the code jungle.
-    📚 Learning today, innovating tomorrow.
