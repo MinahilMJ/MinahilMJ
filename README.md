@@ -106,7 +106,7 @@
     <img src="https://cdn2.iconfinder.com/data/icons/pack1-baco-flurry-icons-style/512/XAMPP.png" alt="xampp" width="40" height="40"/> 
     </a>
     <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank" rel="noreferrer"> 
-        <img src="https://img.stackshare.io/service/7096/809746be-0b96-4af0-aa2f-5d1aeaa82658.png" alt="sql server" width="40" height="40"/> 
+        <img src="[https://img.stackshare.io/service/7096/809746be-0b96-4af0-aa2f-5d1aeaa82658.png](https://licendi.com/media/wysiwyg/microsoft_sql_server_management_studio.png)" alt="sql server" width="40" height="40"/> 
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
