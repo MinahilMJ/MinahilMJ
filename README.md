@@ -36,13 +36,13 @@
 </a>
 </p>
 <br>
-
+<!--
 <p align="center">
   <a href="https://github.com/MinahilMJ">
     <img align="center" alt="MinahilMJ's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinahilMJ&layout=donut-vertical&theme=dark&langs_count=10" width="25%"/>
   </a>
 </p>
-
+-->
 <!-- Statistics End -->
 
 <hr/>
