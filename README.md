@@ -1,5 +1,43 @@
+<!--
 ![MasterHead](https://wallpaperaccess.com/full/314771.jpg)
+-->
+<!--
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZnJud2JpMGo3eDFmMWJ0cXZxbHZmYzRwcnd4ejN1aWw3MzRiNnZ0dSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/sOzHwf1DF8h96A5tXU/giphy.gif" width="100%" />
+</p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MGg4cXAzdXVmNWk5cXZvcGhvbjViZTA5NXd3NnpzNjdtZ284ZWRnNyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/xTiTnx37nc3vjsdeLK/giphy.gif" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MGg4cXAzdXVmNWk5cXZvcGhvbjViZTA5NXd3NnpzNjdtZ284ZWRnNyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/l4JyNNqiVzBMbDOVO/giphy.gif" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bWk5YW4zbXd3a2g1Y2J5eHhkajdkaWUwMG5pbG5ocjBibWV1bnZlNiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/TRklv98Fvo0Tu/giphy.gif" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWE0YmJhN2gxOWMxMXplenF6ZmxrdWdiMmNiYzRiazBxZmhmNzkwNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWE0YmJhN2gxOWMxMXplenF6ZmxrdWdiMmNiYzRiazBxZmhmNzkwNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/IMOTcqOtaEkXiBonLU/giphy.gif" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cTc0Ym93ZXI5Yzlmd245aWdna2c1eW1rcmZwNXplMWp3enNpanR6YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/H03PuVdwREB21ANkLX/giphy.gif" width="100%" />
+  --another: https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YmE0aGFkcXRianNsODRvYm9oazZoMGkwdjNjZzRpcHkydjY4OWkwcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/G2cpDFcKzAPMScb0MC/giphy.gif
+</p>
+
+(this one says: You have been Hacked)
+--https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2xnMHV5eHMwNTJhaDl5N2t5NmE1OXBwaWpleTcycW1tZDBsaW11byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lp3GUtG2waC88/giphy.gif
+-->
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2xnMHV5eHMwNTJhaDl5N2t5NmE1OXBwaWpleTcycW1tZDBsaW11byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" width="100%" />
+</p>
 <h1 align="center">Hi there!!!👋</h1>
 
 ## About Me
@@ -21,20 +59,37 @@
 
 <br>
 <br>
+
 <a href="https://github.com/MinahilMJ" align="right">
-    <img alt="MinahilMJ's GitHub Contribution" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MinahilMJ&theme=dark" width="80%" />
+    <img 
+        alt="MinahilMJ's GitHub Contribution" 
+        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MinahilMJ&theme=tokyonight" 
+        width="80%" 
+    />
 </a>
+
 <a href="https://github.com/MinahilMJ" align="left">
-    <img alt="Globe" src="https://static.wixstatic.com/media/52841c_2bd790b6a82645d7beba97a66687cb3d.gif" width="19%">
+    <img 
+        alt="Globe" 
+        src="https://static.wixstatic.com/media/52841c_2bd790b6a82645d7beba97a66687cb3d.gif" 
+        width="19%"
+    >
 </a>
+
 <br>
 <br>
 <br>
+
 <p align="center">
-<a href="https://github.com/MinahilMJ" align="right">
-    <img alt="MinahilMJ's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MinahilMJ&show_icons=true&count_private=true&theme=dark" width="60%" />
+<a href="https://github.com/MinahilMJ">
+    <img 
+        alt="MinahilMJ's GitHub Streak" 
+        src="https://github-readme-streak-stats.herokuapp.com/?user=MinahilMJ&theme=tokyonight&hide_border=true" 
+        width="60%" 
+    />
 </a>
 </p>
+
 <br>
 <!--
 <p align="center">
@@ -47,71 +102,56 @@
 
 <hr/>
 
-<h3 align="center">Languages and Tools</h3>
-<hr/>
+<h2 align="center">⚡ Tech Arsenal ⚡</h2>
 
-<p align="center"> 
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-    </a>
-    <a href="https://www.w3schools.com/c/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-    </a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-    </a>
-    <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-    </a>
-    <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-    </a>
-    <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/> 
-    </a>
-    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> 
-    </a>
-    <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" alt="anaconda" width="40" height="40"/> 
-    </a>
-    <a href="https://www.spyder-ide.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spyder/spyder-original.svg" alt="spyder" width="40" height="40"/> 
-    </a>
-    <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> 
-    </a>
-    <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="40" height="40"/> 
-    </a>
-    <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> 
-        <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" alt="excel" width="40" height="40"/> 
-    </a>
-    <a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint" target="_blank" rel="noreferrer"> 
-        <img src="https://img.icons8.com/color/48/000000/microsoft-powerpoint-2019.png" alt="ppt" width="40" height="40"/> 
-    </a>
-    <a href="https://www.microsoft.com/en-us/microsoft-365/word" target="_blank" rel="noreferrer"> 
-        <img src="https://img.icons8.com/color/48/000000/microsoft-word-2019.png" alt="word" width="40" height="40"/> 
-    </a>
-    <a href="https://www.microsoft.com/en-us/microsoft-365/access" target="_blank" rel="noreferrer"> 
-        <img src="https://img.icons8.com/color/48/000000/microsoft-access-2019.png" alt="access" width="40" height="40"/> 
-    </a>
-    <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/348_Ubuntu_logo-256.png" alt="ubuntu" width="40" height="40"/> 
-    </a>
-    <a href="https://www.apachefriends.org/index.html" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn2.iconfinder.com/data/icons/pack1-baco-flurry-icons-style/512/XAMPP.png" alt="xampp" width="40" height="40"/> 
-    </a>
-    <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank" rel="noreferrer"> 
-        <img src="https://licendi.com/media/wysiwyg/microsoft_sql_server_management_studio.png" alt="sql server" width="40" height="40"/> 
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-    </a>
-    <a href="https://www.weka.io/" target="_blank" rel="noreferrer"> 
-        <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibg6yxZyD63a_rlhStgKBWUIjTeJGZL9NXAo3EWbz5b6wsD9L0Iza47ONBzwInDy48Pe5oVOJVI5aH3WHZn5SJ6Mac_zrCwPkV95K3uhT8FHagD3DWTFPhtrtT74vKQlemX5lzxI2a8tjH/s400-rw/weka.png" alt="weka" width="40" height="40"/> 
-    </a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Languages+%F0%9F%92%BB;Frameworks+%F0%9F%9A%80;Tools+%F0%9F%9B%A0%EF%B8%8F;Always+Learning+New+Things+%F0%9F%94%A5" />
+</p>
+
+---
+
+<h3 align="center">💻 Programming Languages</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,php,r" />
+</p>
+
+---
+
+<h3 align="center">🛠️ Development Tools & IDEs</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,anaconda,ubuntu" />
+</p>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="55"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spyder/spyder-original.svg" width="45"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn2.iconfinder.com/data/icons/pack1-baco-flurry-icons-style/512/XAMPP.png" width="45"/>
+  &nbsp;&nbsp;
+  <img src="https://licendi.com/media/wysiwyg/microsoft_sql_server_management_studio.png" width="45"/>
+  &nbsp;&nbsp;
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibg6yxZyD63a_rlhStgKBWUIjTeJGZL9NXAo3EWbz5b6wsD9L0Iza47ONBzwInDy48Pe5oVOJVI5aH3WHZn5SJ6Mac_zrCwPkV95K3uhT8FHagD3DWTFPhtrtT74vKQlemX5lzxI2a8tjH/s400-rw/weka.png" width="45"/>
+</p>
+
+---
+
+<h3 align="center">📊 Microsoft Office Suite</h3>
+
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png"/>
+  &nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/microsoft-powerpoint-2019.png"/>
+  &nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/microsoft-word-2019.png"/>
+  &nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/microsoft-access-2019.png"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MinahilMJ&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="100%"/>
 </p>
