@@ -36,7 +36,7 @@
 -->
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2xnMHV5eHMwNTJhaDl5N2t5NmE1OXBwaWpleTcycW1tZDBsaW11byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" width="100%" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2xnMHV5eHMwNTJhaDl5N2t5NmE1OXBwaWpleTcycW1tZDBsaW11byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" width="60%" />
 </p>
 <h1 align="center">Hi there!!!👋</h1>
 
