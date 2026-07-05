@@ -33,10 +33,24 @@
 
 (this one says: You have been Hacked)
 --https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2xnMHV5eHMwNTJhaDl5N2t5NmE1OXBwaWpleTcycW1tZDBsaW11byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lp3GUtG2waC88/giphy.gif
+
+(We Code)
+https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YWd0dTBjeGc3MXpudDBmNzN4anpxcXV6Y3k5NHkzMXV1MTFmdHJjbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZIx0JeNoWwC3oudJhL/giphy.gif
+
+https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2xnMHV5eHMwNTJhaDl5N2t5NmE1OXBwaWpleTcycW1tZDBsaW11byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif
+
+https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3c2N2Nm83N2libnU2dWozMzBhamlwaGNqancyaG9zZ3FoNmxrc3RmYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Tz30dcgKE3GCTYpxol/giphy.gif
+
+(I like)
+https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXAxZGp6N2JxdzB5NW53cmtxZDg1ZThrczR6N3gwNGhoMzlnamY0bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif
+
+https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ODNrbWJoZTRqcTJ2YW12N2VtazgwZjd4OGo2N2RoeHNzZGxhMG5yaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VTtANKl0beDFQRLDTh/giphy.gif
+
+https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3M3hlenF2cmtuYzZxbGVhYnhzOHp2MW82ZGFpdGhlY3l3ajZ2OXV4biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ve43TyDQ3B4me7d22z/giphy.gif
 -->
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2xnMHV5eHMwNTJhaDl5N2t5NmE1OXBwaWpleTcycW1tZDBsaW11byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" width="60%" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OXNlaDNydm55bXMzczhkc3liMTBjOTQ5cXVlaDhobjBxZHl1endzaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RNPov8L5YhGBi52SO4/giphy.gif" width="100%" />
 </p>
 <h1 align="center">Hi there!!!👋</h1>
 
