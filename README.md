@@ -95,11 +95,11 @@ https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3M3hlenF2cmtuYzZxbGVhYnhzOHp2MW8
 <br>
 
 <p align="center">
-<a href="https://github.com/MinahilMJ">
-    <img 
-        alt="MinahilMJ's GitHub Streak" 
-        src="https://github-readme-streak-stats.herokuapp.com/?user=MinahilMJ&theme=tokyonight&hide_border=true" 
-        width="60%" 
+<a href="https://git.io/streak-stats">
+    <img
+        alt="MinahilMJ's GitHub Streak"
+        src="https://streak-stats.demolab.com?user=MinahilMJ&theme=tokyonight&hide_border=true"
+        width="60%"
     />
 </a>
 </p>
