@@ -119,7 +119,7 @@ https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3M3hlenF2cmtuYzZxbGVhYnhzOHp2MW8
 <h2 align="center">⚡ Tech Arsenal ⚡</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Languages+%F0%9F%92%BB;Frameworks+%F0%9F%9A%80;Tools+%F0%9F%9B%A0%EF%B8%8F;Always+Learning+New+Things+%F0%9F%94%A5" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0D419E&center=true&vCenter=true&width=600&lines=Languages+%F0%9F%92%BB;Frameworks+%F0%9F%9A%80;Tools+%F0%9F%9B%A0%EF%B8%8F;Always+Learning+New+Things+%F0%9F%94%A5" />
 </p>
 
 ---
