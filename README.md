@@ -149,6 +149,8 @@ https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3M3hlenF2cmtuYzZxbGVhYnhzOHp2MW8
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2Z1ron7DPI30ej8-mwxwiWUUqrr2laJVCAxBBbEu9Mw&s=10" width="45"/>
    &nbsp;&nbsp;
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHVjz1h3n3JSqWhpwY08UNjiNvPMBHH2i5kzB-g6Tl-sbWfE3ZXGFdUqk&s=10" width="45"/>
+     &nbsp;&nbsp;
+  <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/3/django-icon-ozb2brnujb9dunjyx3d9xe.png/django-icon-p0v5p3t0ixxd5d03b6zt.png?_a=DATAiZAAZAA0" width="45"/>
 </p>
 
 ---
