@@ -127,7 +127,7 @@ https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3M3hlenF2cmtuYzZxbGVhYnhzOHp2MW8
 <h3 align="center">💻 Programming Languages</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,php,r" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,javascript,php,r,typescript,react,java" />
 </p>
 
 ---
@@ -135,19 +135,20 @@ https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3M3hlenF2cmtuYzZxbGVhYnhzOHp2MW8
 <h3 align="center">🛠️ Development Tools & IDEs</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,anaconda,ubuntu" />
-</p>
-
-<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,ubuntu,anaconda" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="55"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spyder/spyder-original.svg" width="45"/>
   &nbsp;&nbsp;
   <img src="https://cdn2.iconfinder.com/data/icons/pack1-baco-flurry-icons-style/512/XAMPP.png" width="45"/>
   &nbsp;&nbsp;
-  <img src="https://licendi.com/media/wysiwyg/microsoft_sql_server_management_studio.png" width="45"/>
+  <img src="https://miro.medium.com/1*XARDV6_sy7v7GuJA5AGqQg.png" width="45"/>
   &nbsp;&nbsp;
   <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibg6yxZyD63a_rlhStgKBWUIjTeJGZL9NXAo3EWbz5b6wsD9L0Iza47ONBzwInDy48Pe5oVOJVI5aH3WHZn5SJ6Mac_zrCwPkV95K3uhT8FHagD3DWTFPhtrtT74vKQlemX5lzxI2a8tjH/s400-rw/weka.png" width="45"/>
+  &nbsp;&nbsp;
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRnTqNdLPneGTMhR2A2AgrlfRZons96dFzIz1tGTRTrvhrKChmjiILbD8S&s=10" width="45"/>
+  &nbsp;&nbsp;
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2Z1ron7DPI30ej8-mwxwiWUUqrr2laJVCAxBBbEu9Mw&s=10" width="45"/>
+   &nbsp;&nbsp;
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHVjz1h3n3JSqWhpwY08UNjiNvPMBHH2i5kzB-g6Tl-sbWfE3ZXGFdUqk&s=10" width="45"/>
 </p>
 
 ---
