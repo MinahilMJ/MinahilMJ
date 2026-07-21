@@ -1,54 +1,6 @@
 <!--
 ![MasterHead](https://wallpaperaccess.com/full/314771.jpg)
 -->
-<!--
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZnJud2JpMGo3eDFmMWJ0cXZxbHZmYzRwcnd4ejN1aWw3MzRiNnZ0dSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/sOzHwf1DF8h96A5tXU/giphy.gif" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MGg4cXAzdXVmNWk5cXZvcGhvbjViZTA5NXd3NnpzNjdtZ284ZWRnNyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/xTiTnx37nc3vjsdeLK/giphy.gif" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MGg4cXAzdXVmNWk5cXZvcGhvbjViZTA5NXd3NnpzNjdtZ284ZWRnNyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/l4JyNNqiVzBMbDOVO/giphy.gif" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bWk5YW4zbXd3a2g1Y2J5eHhkajdkaWUwMG5pbG5ocjBibWV1bnZlNiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/TRklv98Fvo0Tu/giphy.gif" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWE0YmJhN2gxOWMxMXplenF6ZmxrdWdiMmNiYzRiazBxZmhmNzkwNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWE0YmJhN2gxOWMxMXplenF6ZmxrdWdiMmNiYzRiazBxZmhmNzkwNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/IMOTcqOtaEkXiBonLU/giphy.gif" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cTc0Ym93ZXI5Yzlmd245aWdna2c1eW1rcmZwNXplMWp3enNpanR6YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/H03PuVdwREB21ANkLX/giphy.gif" width="100%" />
-  --another: https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YmE0aGFkcXRianNsODRvYm9oazZoMGkwdjNjZzRpcHkydjY4OWkwcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/G2cpDFcKzAPMScb0MC/giphy.gif
-</p>
-
-(this one says: You have been Hacked)
---https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2xnMHV5eHMwNTJhaDl5N2t5NmE1OXBwaWpleTcycW1tZDBsaW11byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lp3GUtG2waC88/giphy.gif
-
-(We Code)
-https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YWd0dTBjeGc3MXpudDBmNzN4anpxcXV6Y3k5NHkzMXV1MTFmdHJjbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZIx0JeNoWwC3oudJhL/giphy.gif
-
-https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2xnMHV5eHMwNTJhaDl5N2t5NmE1OXBwaWpleTcycW1tZDBsaW11byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif
-
-https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3c2N2Nm83N2libnU2dWozMzBhamlwaGNqancyaG9zZ3FoNmxrc3RmYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Tz30dcgKE3GCTYpxol/giphy.gif
-
-(I like)
-https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXAxZGp6N2JxdzB5NW53cmtxZDg1ZThrczR6N3gwNGhoMzlnamY0bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif
-
-https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ODNrbWJoZTRqcTJ2YW12N2VtazgwZjd4OGo2N2RoeHNzZGxhMG5yaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VTtANKl0beDFQRLDTh/giphy.gif
-
-https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3M3hlenF2cmtuYzZxbGVhYnhzOHp2MW82ZGFpdGhlY3l3ajZ2OXV4biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ve43TyDQ3B4me7d22z/giphy.gif
--->
-
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OXNlaDNydm55bXMzczhkc3liMTBjOTQ5cXVlaDhobjBxZHl1endzaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RNPov8L5YhGBi52SO4/giphy.gif" width="100%" />
 </p>
@@ -63,55 +15,38 @@ https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3M3hlenF2cmtuYzZxbGVhYnhzOHp2MW8
 <!-- Statistics Start -->
 <hr/>
 
-<h3 align="center">Statistics</h3>
+<h3 align="center">📊 Statistics 📊</h3>
 <hr/>
-
-<!--
-<a href="https://github.com/MinahilMJ" align="left">
-    <img alt="MinahilMJ's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MinahilMJ&show_icons=true&count_private=true&theme=dark" width="48.5%"/>
-</a>-->
-
-<br>
-<br>
-
-<a href="https://github.com/MinahilMJ" align="right">
-    <img 
-        alt="MinahilMJ's GitHub Contribution" 
-        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MinahilMJ&theme=tokyonight" 
-        width="80%" 
-    />
-</a>
-
-<a href="https://github.com/MinahilMJ" align="left">
-    <img 
-        alt="Globe" 
-        src="https://static.wixstatic.com/media/52841c_2bd790b6a82645d7beba97a66687cb3d.gif" 
-        width="19%"
-    >
-</a>
-
-<br>
-<br>
-<br>
-
 <p align="center">
-<a href="https://git.io/streak-stats">
-    <img
-        alt="MinahilMJ's GitHub Streak"
-        src="https://streak-stats.demolab.com?user=MinahilMJ&theme=tokyonight&hide_border=true"
-        width="60%"
-    />
-</a>
+  <img
+    src="https://github-readme-stats.shion.dev/api?username=MinahilMJ&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github"
+    width="54%"
+  />
+  <img
+    src="https://github-readme-stats.shion.dev/api/top-langs/?username=MinahilMJ&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
+    width="41%"
+  />
 </p>
-
-<br>
-<!--
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=MinahilMJ&theme=tokyonight&hide_border=true"
+    width="60%"
+  />
+  <img
+    src="https://static.wixstatic.com/media/52841c_2bd790b6a82645d7beba97a66687cb3d.gif"
+    width="19%"
+  />
+</p>
 <p align="center">
   <a href="https://github.com/MinahilMJ">
-    <img align="center" alt="MinahilMJ's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinahilMJ&layout=donut-vertical&theme=dark&langs_count=10" width="25%"/>
+    <img
+      alt="MinahilMJ's GitHub Contribution"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MinahilMJ&theme=tokyonight"
+      width="80%"
+    />
   </a>
 </p>
--->
+
 <!-- Statistics End -->
 
 <hr/>
